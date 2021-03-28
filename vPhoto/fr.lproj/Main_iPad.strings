@@ -1,0 +1,174 @@
+
+/* Class = "IBUILabel"; text = "Leave a review"; ObjectID = "1vl-YA-Jco"; */
+"1vl-YA-Jco.text" = "Leave a review";
+
+/* Class = "IBUITableViewSection"; headerTitle = "About vPhotos"; ObjectID = "2Zd-8m-873"; */
+"2Zd-8m-873.headerTitle" = "About vPhotos";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "33Q-E2-Zjr"; */
+"33Q-E2-Zjr.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "3Tu-sn-Gtc"; */
+"3Tu-sn-Gtc.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "easyplace.wordpress.org"; ObjectID = "4iG-H7-FR2"; */
+"4iG-H7-FR2.text" = "easyplace.wordpress.org";
+
+/* Class = "IBUINavigationItem"; title = "Choose Hue lights"; ObjectID = "5fg-J2-yAj"; */
+"5fg-J2-yAj.title" = "Choose Hue lights";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Troubleshooting"; ObjectID = "782-Hg-iB5"; */
+"782-Hg-iB5.headerTitle" = "Troubleshooting";
+
+/* Class = "IBUINavigationItem"; title = "Slideshow"; ObjectID = "7fY-VU-EaQ"; */
+"7fY-VU-EaQ.title" = "Slideshow";
+
+/* Class = "IBUILabel"; text = "@edeniska"; ObjectID = "82z-ep-b5x"; */
+"82z-ep-b5x.text" = "@edeniska";
+
+/* Class = "IBUILabel"; text = "Twitter"; ObjectID = "API-Dz-F1y"; */
+"API-Dz-F1y.text" = "Twitter";
+
+/* Class = "IBUILabel"; text = "vPhotos"; ObjectID = "B9P-r9-mhr"; */
+"B9P-r9-mhr.text" = "vPhotos";
+
+/* Class = "IBUILabel"; text = "Search Flickr\nuser photos"; ObjectID = "BzP-c4-WhX"; */
+"BzP-c4-WhX.text" = "Search Flickr\nuser photos";
+
+/* Class = "IBUIButton"; normalTitle = "Stop"; ObjectID = "CIb-aR-iHF"; */
+"CIb-aR-iHF.normalTitle" = "Stop";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "E7S-f5-E3J"; */
+"E7S-f5-E3J.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Danis Tazetdinov"; ObjectID = "Ej1-OF-COj"; */
+"Ej1-OF-COj.text" = "Danis Tazetdinov";
+
+/* Class = "IBUILabel"; text = "Blog"; ObjectID = "Fyp-RZ-eZQ"; */
+"Fyp-RZ-eZQ.text" = "Blog";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "I3L-DZ-V0V"; */
+"I3L-DZ-V0V.title" = "Settings";
+
+/* Class = "IBUILabel"; text = "Version"; ObjectID = "KnY-C1-whG"; */
+"KnY-C1-whG.text" = "Version";
+
+/* Class = "IBUILabel"; text = "Recent popular\nFlickr photos"; ObjectID = "L8i-84-vce"; */
+"L8i-84-vce.text" = "Recent popular\nFlickr photos";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "Nvz-FE-SBl"; */
+"Nvz-FE-SBl.normalTitle" = "Next";
+
+/* Class = "IBUILabel"; text = "dtazetdinov"; ObjectID = "O7C-B4-8Rw"; */
+"O7C-B4-8Rw.text" = "dtazetdinov";
+
+/* Class = "IBUITableViewSection"; headerTitle = "vPhotos app"; ObjectID = "OgI-zN-bbm"; */
+"OgI-zN-bbm.headerTitle" = "vPhotos app";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Please, write your review in App Store."; ObjectID = "Oqb-L3-iB2"; */
+"Oqb-L3-iB2.footerTitle" = "Please, write your review in App Store.";
+
+/* Class = "IBUILabel"; text = "dtazetdinov"; ObjectID = "Ptp-Pj-6Uc"; */
+"Ptp-Pj-6Uc.text" = "dtazetdinov";
+
+/* Class = "IBUILabel"; text = "Clear saved Flickr user list"; ObjectID = "R2n-Rk-mgk"; */
+"R2n-Rk-mgk.text" = "Clear saved Flickr user list";
+
+/* Class = "IBUIBarButtonItem"; title = "Settings"; ObjectID = "Rf0-HF-kSn"; */
+"Rf0-HF-kSn.title" = "Settings";
+
+/* Class = "IBUILabel"; text = "vPlaces"; ObjectID = "SAQ-ki-KLE"; */
+"SAQ-ki-KLE.text" = "vPlaces";
+
+/* Class = "IBUILabel"; text = "Reconnect to Hue"; ObjectID = "TRa-Zc-Twt"; */
+"TRa-Zc-Twt.text" = "Reconnect to Hue";
+
+/* Class = "IBUIButton"; normalTitle = "Pause"; ObjectID = "Tca-Zp-jEy"; */
+"Tca-Zp-jEy.normalTitle" = "Pause";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Umf-uq-Ppz"; */
+"Umf-uq-Ppz.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "vPhotos"; ObjectID = "VFe-fp-aIj"; */
+"VFe-fp-aIj.title" = "vPhotos";
+
+/* Class = "IBUILabel"; text = "Facebook"; ObjectID = "X0W-5Z-gRP"; */
+"X0W-5Z-gRP.text" = "Facebook";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "YqU-rr-YI8"; */
+"YqU-rr-YI8.text" = "Label";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Choose Hue lights to use. You can choose lights only when connected to Hue hub."; ObjectID = "Zcs-7c-5Gv"; */
+"Zcs-7c-5Gv.footerTitle" = "Choose Hue lights to use. You can choose lights only when connected to Hue hub.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Lamps"; ObjectID = "Zcs-7c-5Gv"; */
+"Zcs-7c-5Gv.headerTitle" = "Lamps";
+
+/* Class = "IBUILabel"; text = "LinkedIn"; ObjectID = "b6X-gx-Hvv"; */
+"b6X-gx-Hvv.text" = "LinkedIn";
+
+/* Class = "IBUILabel"; text = "Status"; ObjectID = "bez-UI-0ow"; */
+"bez-UI-0ow.text" = "Status";
+
+/* Class = "IBUINavigationItem"; title = "Discovering Hue hubs..."; ObjectID = "cBp-g8-zNa"; */
+"cBp-g8-zNa.title" = "Discovering Hue hubs...";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Choose how photos should fit into the screen."; ObjectID = "g6b-xj-BqT"; */
+"g6b-xj-BqT.footerTitle" = "Choose how photos should fit into the screen.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Photo view"; ObjectID = "g6b-xj-BqT"; */
+"g6b-xj-BqT.headerTitle" = "Photo view";
+
+/* Class = "IBUILabel"; text = "d.tazetdinov@me.com"; ObjectID = "gFo-m8-bch"; */
+"gFo-m8-bch.text" = "d.tazetdinov@me.com";
+
+/* Class = "IBUILabel"; text = "1.0"; ObjectID = "gGa-UG-rZF"; */
+"gGa-UG-rZF.text" = "1.0";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Other apps"; ObjectID = "kWm-V7-lNd"; */
+"kWm-V7-lNd.headerTitle" = "Other apps";
+
+/* Class = "IBUINavigationItem"; title = "About vPhotos"; ObjectID = "miD-ej-3jH"; */
+"miD-ej-3jH.title" = "About vPhotos";
+
+/* Class = "IBUILabel"; text = "Search Flickr\nuser photos"; ObjectID = "okd-vs-T4V"; */
+"okd-vs-T4V.text" = "Search Flickr\nuser photos";
+
+/* Class = "IBUILabel"; text = "Use Hue lamps to visit places you like."; ObjectID = "pc9-0k-2v2"; */
+"pc9-0k-2v2.text" = "Use Hue lamps to visit places you like.";
+
+/* Class = "IBUILabel"; text = "60 seconds"; ObjectID = "pjv-yY-KeX"; */
+"pjv-yY-KeX.text" = "60 seconds";
+
+/* Class = "IBUILabel"; text = "E-mail"; ObjectID = "q1Q-MO-2Tt"; */
+"q1Q-MO-2Tt.text" = "E-mail";
+
+/* Class = "IBUILabel"; text = "Fill the whole screen"; ObjectID = "s5N-hH-gDW"; */
+"s5N-hH-gDW.text" = "Fill the whole screen";
+
+/* Class = "IBUITableViewSection"; footerTitle = "If you like vPhotos, please, send me a note. \n\nIf you have questions, suggestions, improvement ideas, don't hesitate to contact."; ObjectID = "sJH-XU-t0l"; */
+"sJH-XU-t0l.footerTitle" = "If you like vPhotos, please, send me a note. \n\nIf you have questions, suggestions, improvement ideas, don't hesitate to contact.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Contact author"; ObjectID = "sJH-XU-t0l"; */
+"sJH-XU-t0l.headerTitle" = "Contact author";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "vyF-ON-4fl"; */
+"vyF-ON-4fl.text" = "Title";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Choose photo display duration."; ObjectID = "wxu-cz-gHz"; */
+"wxu-cz-gHz.footerTitle" = "Choose photo display duration.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Slideshow"; ObjectID = "wxu-cz-gHz"; */
+"wxu-cz-gHz.headerTitle" = "Slideshow";
+
+/* Class = "IBUILabel"; text = "Choose Hue lights"; ObjectID = "xGJ-dH-Ddn"; */
+"xGJ-dH-Ddn.text" = "Choose Hue lights";
+
+/* Class = "IBUILabel"; text = "2 lamps"; ObjectID = "xo3-eS-1w8"; */
+"xo3-eS-1w8.text" = "2 lamps";
+
+/* Class = "IBUILabel"; text = "Fit photo into the screen"; ObjectID = "yKL-pa-rXO"; */
+"yKL-pa-rXO.text" = "Fit photo into the screen";
+
+/* Class = "IBUITableViewSection"; footerTitle = "When lamp colos are not updated properly, you might need to reconnect to Hue."; ObjectID = "yLS-Pj-rvH"; */
+"yLS-Pj-rvH.footerTitle" = "When lamp colos are not updated properly, you might need to reconnect to Hue.";

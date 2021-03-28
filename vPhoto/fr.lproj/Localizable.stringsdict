@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>[%ld lamps]</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@lu_total_lamps@</string>
+        <key>lu_total_lamps</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lu</string>
+            <key>zero</key>
+            <string>no lampes</string>
+            <key>one</key>
+            <string>%lu lampe</string>
+            <key>other</key>
+            <string>%lu lampes</string>
+        </dict>
+    </dict>
+    <key>[%d sec]</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@lu_seconds@</string>
+        <key>lu_seconds</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lu</string>
+            <key>zero</key>
+            <string>Zéro secondes</string>
+            <key>one</key>
+            <string>One seconde</string>
+            <key>other</key>
+            <string>%lu secondes</string>
+        </dict>
+    </dict>
+</dict>
+</plist>

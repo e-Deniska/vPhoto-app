@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+/* Photo library access string */
+
+"CFBundleDisplayName" = "vPhotos";
+
+"NSPhotoLibraryUsageDescription" = "vPhotos displays your photos in a slideshow";
